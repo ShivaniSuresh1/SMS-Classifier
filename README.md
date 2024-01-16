@@ -12,6 +12,7 @@ Make sure you have the following dependencies installed:
 - scikit-learn
 - pandas
 - numpy
+- nltk
 
 You can install the required packages using the following command:
 
