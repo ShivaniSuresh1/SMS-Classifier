@@ -27,9 +27,9 @@ cd sms-classifier
 
 ## Customization
 Feel free to customize and extend the project according to your needs:
-*Modify the feature extraction process in train_classifier.py to improve the model's performance.
-*Experiment with different machine learning algorithms and parameters.
-*Enhance the classification output or integrate the model into a larger application.
+- Modify the feature extraction process in train_classifier.py to improve the model's performance.
+- Experiment with different machine learning algorithms and parameters.
+- Enhance the classification output or integrate the model into a larger application.
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify the code for your purposes.
