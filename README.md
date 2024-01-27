@@ -1,4 +1,4 @@
-# SMS Classifier using Python
+# Bharat Intern Task 1-SMS Classifier using Python
 
 ## Overview
 
@@ -22,7 +22,7 @@ pip install scikit-learn pandas numpy nltk
 Clone the repository using the command:
 
 ```bash
-git clone https://github.com/your-username/sms-classifier.git
+git clone https://github.com/ShivaniSuresh1/sms-classifier.git
 cd sms-classifier
 ```
 
@@ -37,6 +37,9 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## Acknowledgments
 The project uses the scikit-learn library for machine learning tasks.
+
+A huge thank you to [Bharat Intern](https://www.linkedin.com/company/bharat-intern/) for giving me the opportunity to work on such a fascinating project!
+
 If you have any questions or suggestions, feel free to reach out to [ShivaniSuresh1](https://github.com/ShivaniSuresh1/).
 
 Happy classifying! 📱✨
